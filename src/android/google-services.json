@@ -1,3 +1,42 @@
 {
-  "name": "rizwan"
+  "project_info": {
+    "project_number": "665717578642",
+    "firebase_url": "https://journeytree-1e778.firebaseio.com",
+    "project_id": "journeytree-1e778",
+    "storage_bucket": "journeytree-1e778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665717578642:android:6a8f17f7774bb716",
+        "android_client_info": {
+          "package_name": "com.journeytree.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665717578642-g19k3t95bsimf3jc69eult8g145pu6n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDrEiUCLw0AF6VvWW8zjnJJemlkP3TfcM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
